@@ -493,47 +493,47 @@ msgstr[1] "密钥 %s 已导入且验证正确。"
 msgctxt "KeyManagerTab"
 msgid "%s key has been imported without verification."
 msgid_plural "%s keys have been imported without verification."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "密钥 %s 已导入，但未验证。"
+msgstr[1] "密钥 %s 已导入，但未验证。"
 
 #. tr: Wii keys.bin dialog title.
 #: ../src/kde/config/KeyManagerTab.cpp:409
 #: ../src/win32/config/KeyManagerTab.cpp:1547
 msgctxt "KeyManagerTab"
 msgid "Select Wii keys.bin File"
-msgstr ""
+msgstr "选择 Wii keys.bin 文件"
 
 #. tr: Wii keys.bin file filter. (Qt)
 #: ../src/kde/config/KeyManagerTab.cpp:412
 msgctxt "KeyManagerTab"
 msgid "keys.bin (keys.bin);;Binary Files (*.bin);;All Files (*.*)"
-msgstr ""
+msgstr "keys.bin (keys.bin);;二进制文件 (*.bin);;所有文件 (*.*)"
 
 #. tr: Wii U otp.bin dialog title.
 #: ../src/kde/config/KeyManagerTab.cpp:429
 #: ../src/win32/config/KeyManagerTab.cpp:1569
 msgctxt "KeyManagerTab"
 msgid "Select Wii U otp.bin File"
-msgstr ""
+msgstr "选择 Wii U otp.bin 文件"
 
 #. tr: Wii U otp.bin file filter. (Qt)
 #: ../src/kde/config/KeyManagerTab.cpp:432
 msgctxt "KeyManagerTab"
 msgid "otp.bin (otp.bin);;Binary Files (*.bin);;All Files (*.*)"
-msgstr ""
+msgstr "otp.bin (otp.bin);;二进制文件 (*.bin);;所有文件 (*.*)"
 
 #. tr: 3DS boot9.bin dialog title.
 #: ../src/kde/config/KeyManagerTab.cpp:449
 #: ../src/win32/config/KeyManagerTab.cpp:1591
 msgctxt "KeyManagerTab"
 msgid "Select 3DS boot9.bin File"
-msgstr ""
+msgstr "选择 3DS boot9.bin 文件"
 
 #. tr: 3DS boot9.bin file filter. (Qt)
 #: ../src/kde/config/KeyManagerTab.cpp:452
 msgctxt "KeyManagerTab"
 msgid "boot9.bin (boot9.bin);;Binary Files (*.bin);;All Files (*.*)"
-msgstr ""
+msgstr "boot9.bin (boot9.bin);;二进制文件 (*.bin);;所有文件 (*.*)"
 
 #. tr: 3DS aeskeydb.bin dialog title.
 #. tr: aeskeydb.bin dialog title.
@@ -541,44 +541,44 @@ msgstr ""
 #: ../src/win32/config/KeyManagerTab.cpp:1613
 msgctxt "KeyManagerTab"
 msgid "Select 3DS aeskeydb.bin File"
-msgstr ""
+msgstr "选择 3DS aeskeydb.bin 文件"
 
 #. tr: 3DS aeskeydb.bin file filter. (Qt)
 #: ../src/kde/config/KeyManagerTab.cpp:472
 msgctxt "KeyManagerTab"
 msgid "aeskeydb.bin (aeskeydb.bin);;Binary Files (*.bin);;All Files (*.*)"
-msgstr ""
+msgstr "aeskeydb.bin (aeskeydb.bin);;二进制文件 (*.bin);;所有文件 (*.*)"
 
 #. tr: Column 0: Key Name.
 #: ../src/kde/config/KeyStoreModel.cpp:98
 #: ../src/win32/config/KeyManagerTab.cpp:383
 msgctxt "KeyManagerTab"
 msgid "Key Name"
-msgstr ""
+msgstr "密钥名称"
 
 #. tr: Column 1: Value.
 #: ../src/kde/config/KeyStoreModel.cpp:100
 #: ../src/win32/config/KeyManagerTab.cpp:392
 msgctxt "KeyManagerTab"
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 #. tr: Column 2: Verification status.
 #: ../src/kde/config/KeyStoreModel.cpp:102
 #: ../src/win32/config/KeyManagerTab.cpp:397
 msgctxt "KeyManagerTab"
 msgid "Valid?"
-msgstr ""
+msgstr "是否合法"
 
 #: ../src/libromdata/Audio/ADX.cpp:298
 msgctxt "ADX|Format"
 msgid "Fixed Coefficient ADPCM"
-msgstr ""
+msgstr "修复协作ADPCM"
 
 #: ../src/libromdata/Audio/ADX.cpp:305
 msgctxt "ADX|Format"
 msgid "ADX with Exponential Scale"
-msgstr ""
+msgstr "带指数缩放的ADX"
 
 #: ../src/libromdata/Audio/ADX.cpp:317
 #: ../src/libromdata/Console/GameCube.cpp:1831
@@ -618,70 +618,70 @@ msgstr ""
 #: ../src/libromdata/Texture/DirectDrawSurface.cpp:1160
 msgctxt "RomData"
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #: ../src/libromdata/Audio/ADX.cpp:320
 msgctxt "RomData|Audio"
 msgid "Format"
-msgstr ""
+msgstr "格式"
 
 #: ../src/libromdata/Audio/ADX.cpp:323 ../src/libromdata/Audio/BCSTM.cpp:519
 #: ../src/libromdata/Audio/BRSTM.cpp:387
 msgctxt "RomData|Audio"
 msgid "Channels"
-msgstr ""
+msgstr "频道"
 
 #: ../src/libromdata/Audio/ADX.cpp:333 ../src/libromdata/Audio/BCSTM.cpp:525
 #: ../src/libromdata/Audio/BRSTM.cpp:397
 msgctxt "RomData|Audio"
 msgid "Sample Rate"
-msgstr ""
+msgstr "采样率"
 
 #: ../src/libromdata/Audio/ADX.cpp:336 ../src/libromdata/Audio/BCSTM.cpp:530
 #: ../src/libromdata/Audio/BRSTM.cpp:400
 msgctxt "RomData|Audio"
 msgid "Length"
-msgstr ""
+msgstr "长度"
 
 #: ../src/libromdata/Audio/ADX.cpp:345
 msgctxt "ADX"
 msgid "High-Pass Cutoff"
-msgstr ""
+msgstr "高通截止"
 
 #: ../src/libromdata/Audio/ADX.cpp:349
 msgctxt "ADX"
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: ../src/libromdata/Audio/ADX.cpp:350
 msgctxt "ADX"
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: ../src/libromdata/Audio/ADX.cpp:353
 msgctxt "ADX"
 msgid "Encrypted"
-msgstr ""
+msgstr "已加密"
 
 #: ../src/libromdata/Audio/ADX.cpp:359
 msgctxt "ADX"
 msgid "Looping"
-msgstr ""
+msgstr "循环"
 
 #: ../src/libromdata/Audio/ADX.cpp:362
 msgctxt "ADX"
 msgid "Loop Start"
-msgstr ""
+msgstr "循环起始"
 
 #: ../src/libromdata/Audio/ADX.cpp:364
 msgctxt "ADX"
 msgid "Loop End"
-msgstr ""
+msgstr "循环结束"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:445 ../src/libromdata/Audio/BCSTM.cpp:447
 msgctxt "BCSTM"
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:448
 #: ../src/libromdata/Texture/ValveVTF.cpp:949
@@ -690,52 +690,52 @@ msgstr ""
 #, c-format
 msgctxt "RomData"
 msgid "Unknown (%d)"
-msgstr ""
+msgstr "未知 （%d）"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:454 ../src/libromdata/Audio/BRSTM.cpp:367
 #: ../src/libromdata/Texture/KhronosKTX.cpp:845
 msgctxt "RomData"
 msgid "Endianness"
-msgstr ""
+msgstr "字节序"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:456 ../src/libromdata/Audio/BRSTM.cpp:369
 #: ../src/libromdata/Texture/KhronosKTX.cpp:835
 #: ../src/libromdata/Texture/KhronosKTX.cpp:840
 msgctxt "RomData"
 msgid "Big-Endian"
-msgstr ""
+msgstr "大端序"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:457 ../src/libromdata/Audio/BRSTM.cpp:370
 #: ../src/libromdata/Texture/KhronosKTX.cpp:833
 #: ../src/libromdata/Texture/KhronosKTX.cpp:842
 msgctxt "RomData"
 msgid "Little-Endian"
-msgstr ""
+msgstr "小端序"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:505
 msgctxt "BCSTM|Codec"
 msgid "Signed 8-bit PCM"
-msgstr ""
+msgstr "单声道8位PCM"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:506
 msgctxt "BCSTM|Codec"
 msgid "Signed 16-bit PCM"
-msgstr ""
+msgstr "单声道16位PCM"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:507
 msgctxt "BCSTM|Codec"
 msgid "DSP ADPCM"
-msgstr ""
+msgstr "DSP ADPCM"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:508
 msgctxt "BCSTM|Codec"
 msgid "IMA ADPCM"
-msgstr ""
+msgstr "IMA ADPCM"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:511 ../src/libromdata/Audio/BCSTM.cpp:514
 msgctxt "BCSTM"
 msgid "Codec"
-msgstr ""
+msgstr "编码"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:515 ../src/libromdata/Audio/BRSTM.cpp:383
 #: ../src/libromdata/Console/XboxDisc.cpp:765
@@ -743,37 +743,37 @@ msgstr ""
 #, c-format
 msgctxt "RomData"
 msgid "Unknown (%u)"
-msgstr ""
+msgstr "未知 （%u）"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:535
 msgctxt "BCSTM"
 msgid "Looping"
-msgstr ""
+msgstr "循环"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:536 ../src/libromdata/Audio/BRSTM.cpp:405
 msgctxt "RomData"
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:536 ../src/libromdata/Audio/BRSTM.cpp:405
 msgctxt "RomData"
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:538
 msgctxt "BCSTM"
 msgid "Loop Start"
-msgstr ""
+msgstr "循环起始"
 
 #: ../src/libromdata/Audio/BCSTM.cpp:542
 msgctxt "BCSTM"
 msgid "Loop End"
-msgstr ""
+msgstr "循环结束"
 
 #: ../src/libromdata/Audio/BRSTM.cpp:360
 msgctxt "BRSTM"
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: ../src/libromdata/Audio/BRSTM.cpp:363 ../src/libromdata/Audio/SID.cpp:258
 #: ../src/libromdata/Console/Dreamcast.cpp:657
@@ -783,200 +783,200 @@ msgstr ""
 #: ../src/libromdata/Handheld/Nintendo3DSFirm.cpp:385
 msgctxt "RomData"
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 #: ../src/libromdata/Audio/BRSTM.cpp:374
 msgctxt "BRSTM|Codec"
 msgid "Signed 8-bit PCM"
-msgstr ""
+msgstr "单声道8位PCM"
 
 #: ../src/libromdata/Audio/BRSTM.cpp:375
 msgctxt "BRSTM|Codec"
 msgid "Signed 16-bit PCM"
-msgstr ""
+msgstr "单声道16位PCM"
 
 #: ../src/libromdata/Audio/BRSTM.cpp:376
 msgctxt "BRSTM|Codec"
 msgid "4-bit THP ADPCM"
-msgstr ""
+msgstr "4位THP ADPCM"
 
 #: ../src/libromdata/Audio/BRSTM.cpp:379 ../src/libromdata/Audio/BRSTM.cpp:382
 msgctxt "BRSTM"
 msgid "Codec"
-msgstr ""
+msgstr "编码"
 
 #: ../src/libromdata/Audio/BRSTM.cpp:404
 msgctxt "BRSTM"
 msgid "Looping"
-msgstr ""
+msgstr "循环"
 
 #: ../src/libromdata/Audio/BRSTM.cpp:407
 msgctxt "BRSTM"
 msgid "Loop Start"
-msgstr ""
+msgstr "循环起始"
 
 #: ../src/libromdata/Audio/GBS.cpp:242 ../src/libromdata/Audio/NSF.cpp:241
 #: ../src/libromdata/Audio/PSF.cpp:587
 msgctxt "RomData|Audio"
 msgid "Title"
-msgstr ""
+msgstr "标题"
 
 #: ../src/libromdata/Audio/GBS.cpp:248 ../src/libromdata/Audio/NSF.cpp:247
 #: ../src/libromdata/Audio/SNDH.cpp:845 ../src/libromdata/Audio/VGM.cpp:429
 msgctxt "RomData|Audio"
 msgid "Composer"
-msgstr ""
+msgstr "编曲"
 
 #: ../src/libromdata/Audio/GBS.cpp:254 ../src/libromdata/Audio/NSF.cpp:253
 #: ../src/libromdata/Audio/PSF.cpp:618 ../src/libromdata/Audio/SID.cpp:275
 msgctxt "RomData|Audio"
 msgid "Copyright"
-msgstr ""
+msgstr "版权所有"
 
 #: ../src/libromdata/Audio/GBS.cpp:259 ../src/libromdata/Audio/NSF.cpp:258
 msgctxt "RomData|Audio"
 msgid "Track Count"
-msgstr ""
+msgstr "音轨数量"
 
 #: ../src/libromdata/Audio/GBS.cpp:263 ../src/libromdata/Audio/NSF.cpp:262
 msgctxt "RomData|Audio"
 msgid "Default Track #"
-msgstr ""
+msgstr "默认音轨#"
 
 #: ../src/libromdata/Audio/GBS.cpp:267
 msgctxt "GBS"
 msgid "Load Address"
-msgstr ""
+msgstr "载入地址"
 
 #: ../src/libromdata/Audio/GBS.cpp:272
 msgctxt "GBS"
 msgid "Init Address"
-msgstr ""
+msgstr "初始地址"
 
 #: ../src/libromdata/Audio/GBS.cpp:277
 msgctxt "GBS"
 msgid "Play Address"
-msgstr ""
+msgstr "播放地址"
 
 #: ../src/libromdata/Audio/GBS.cpp:282
 msgctxt "GBS"
 msgid "Stack Pointer"
-msgstr ""
+msgstr "栈指针"
 
 #: ../src/libromdata/Audio/NSF.cpp:266
 msgctxt "NSF"
 msgid "Load Address"
-msgstr ""
+msgstr "载入地址"
 
 #: ../src/libromdata/Audio/NSF.cpp:271
 msgctxt "NSF"
 msgid "Init Address"
-msgstr ""
+msgstr "初始地址"
 
 #: ../src/libromdata/Audio/NSF.cpp:276
 msgctxt "NSF"
 msgid "Play Address"
-msgstr ""
+msgstr "播放地址"
 
 #: ../src/libromdata/Audio/NSF.cpp:284
 msgctxt "NSF|TVSystem"
 msgid "NTSC"
-msgstr ""
+msgstr "NTSC"
 
 #: ../src/libromdata/Audio/NSF.cpp:285
 msgctxt "NSF|TVSystem"
 msgid "PAL"
-msgstr ""
+msgstr "PAL"
 
 #: ../src/libromdata/Audio/NSF.cpp:295
 msgctxt "NSF"
 msgid "TV System"
-msgstr ""
+msgstr "电视系统"
 
 #: ../src/libromdata/Audio/NSF.cpp:300
 msgctxt "NSF|Expansion"
 msgid "Konami VRC6"
-msgstr ""
+msgstr "科乐美VRC6"
 
 #: ../src/libromdata/Audio/NSF.cpp:301
 msgctxt "NSF|Expansion"
 msgid "Konami VRC7"
-msgstr ""
+msgstr "科乐美VRC7"
 
 #: ../src/libromdata/Audio/NSF.cpp:302
 msgctxt "NSF|Expansion"
 msgid "2C33 (FDS)"
-msgstr ""
+msgstr "2C33 (FDS)"
 
 #: ../src/libromdata/Audio/NSF.cpp:303
 msgctxt "NSF|Expansion"
 msgid "MMC5"
-msgstr ""
+msgstr "MMC5"
 
 #: ../src/libromdata/Audio/NSF.cpp:304
 msgctxt "NSF|Expansion"
 msgid "Namco N163"
-msgstr ""
+msgstr "南梦宫N163"
 
 #: ../src/libromdata/Audio/NSF.cpp:305
 msgctxt "NSF|Expansion"
 msgid "Sunsoft 5B"
-msgstr ""
+msgstr "Sunsoft 5B"
 
 #: ../src/libromdata/Audio/NSF.cpp:309
 msgctxt "NSF"
 msgid "Expansion"
-msgstr ""
+msgstr "扩展"
 
 #: ../src/libromdata/Audio/PSF.cpp:545
 msgctxt "PSF|System"
 msgid "Sony PlayStation"
-msgstr ""
+msgstr "索尼 PlayStation"
 
 #: ../src/libromdata/Audio/PSF.cpp:546
 msgctxt "PSF|System"
 msgid "Sony PlayStation 2"
-msgstr ""
+msgstr "索尼 PlayStation 2"
 
 #: ../src/libromdata/Audio/PSF.cpp:547
 msgctxt "PSF|System"
 msgid "Sega Saturn"
-msgstr ""
+msgstr "世嘉土星"
 
 #: ../src/libromdata/Audio/PSF.cpp:548
 msgctxt "PSF|System"
 msgid "Sega Dreamcast"
-msgstr ""
+msgstr "世家 Dreamcast"
 
 #: ../src/libromdata/Audio/PSF.cpp:549
 msgctxt "PSF|System"
 msgid "Sega Mega Drive"
-msgstr ""
+msgstr "世嘉 Mega Drive"
 
 #: ../src/libromdata/Audio/PSF.cpp:550
 msgctxt "PSF|System"
 msgid "Nintendo 64"
-msgstr ""
+msgstr "任天堂64"
 
 #: ../src/libromdata/Audio/PSF.cpp:551
 msgctxt "PSF|System"
 msgid "Game Boy Advance"
-msgstr ""
+msgstr "Game Boy Advance"
 
 #: ../src/libromdata/Audio/PSF.cpp:552
 msgctxt "PSF|System"
 msgid "Super NES"
-msgstr ""
+msgstr "超级NES"
 
 #: ../src/libromdata/Audio/PSF.cpp:553
 msgctxt "PSF|System"
 msgid "Capcom QSound"
-msgstr ""
+msgstr "卡普空 QSound"
 
 #: ../src/libromdata/Audio/PSF.cpp:568
 msgctxt "PSF"
 msgid "System"
-msgstr ""
+msgstr "系统"
 
 #: ../src/libromdata/Audio/PSF.cpp:574 ../src/libromdata/Audio/SPC.cpp:791
 #: ../src/libromdata/Console/DreamcastSave.cpp:1365
@@ -1002,17 +1002,17 @@ msgstr ""
 #, c-format
 msgctxt "RomData"
 msgid "Unknown (0x%02X)"
-msgstr ""
+msgstr "未知 (0x%02X)"
 
 #: ../src/libromdata/Audio/PSF.cpp:593 ../src/libromdata/Audio/SPC.cpp:716
 msgctxt "RomData|Audio"
 msgid "Artist"
-msgstr ""
+msgstr "艺术家"
 
 #: ../src/libromdata/Audio/PSF.cpp:599
 msgctxt "PSF"
 msgid "Game"
-msgstr ""
+msgstr "游戏"
 
 #: ../src/libromdata/Audio/PSF.cpp:606 ../src/libromdata/Audio/VGM.cpp:430
 #: ../src/libromdata/Console/Dreamcast.cpp:663
